@@ -1,0 +1,9 @@
+{
+  "name": "Bass Finder Wales",
+  "short_name": "Bass Finder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07131b",
+  "theme_color": "#07131b",
+  "description": "Live Welsh bass lure-fishing decision engine."
+}
